@@ -1,6 +1,8 @@
 # The Way of Nature's Guardians
 [todo: need a title]
 
+[wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
+
 The Way of Nature's Guardians provides a digital common space for people that either live in nature or are striving to go back to nature. It's also a place for the people that strive to protect those people. It's also a place for people that make tools (digital or not) to aid these people.
 
 Now, obviously, most of those people don't use Discord, or speak English, or think anywhere near the way I am currently thinking as i write this.., so this is likely a space for people who have lived in both cultures/worlds/mind-sets: indgenous / in nature and with technology ("developed" and "undeveloped"). Very likely, it's people that either migrated from the technological world to nature or from nature to the technological world. It's for the unique grassroots communities 'n their communes in nature ("intentional communities") around the world. But... it sure would be nice to somehow stop *a billion* people from using corporate-owned social media (especially Baidu, LINE, Kakao Talk) and use decentralized messaging, or even just Discord! :/
