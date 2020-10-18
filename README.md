@@ -10,3 +10,7 @@ Now, obviously, most of those people don't use Discord, or speak English, or thi
 It's up to us to make a digital world that fits our own worlds, in the languages we live. I personally have a set of tool ideas to aid nomands, anarchists, homeless peopels, buskers, street-vendors, garderners, farmers, people living in nature: us. We need to survive. We need power. We need tools, technologies, 'n techniques.
 
 I wonder: what other people out there, in some remoate area in the world, may be up to...
+- - -
+
+#### notes
+this part of the readme serves as a simple version of GitHub's projects 'n issues. Start with those features off.
