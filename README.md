@@ -1,4 +1,4 @@
-# The Way of Nature's Guardians
+# the way of nature's guardians
 [todo: need a title]
 
 [wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
