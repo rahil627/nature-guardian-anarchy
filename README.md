@@ -1,5 +1,5 @@
 # the way of nature's guardians
-[todo: need a title]
+is a digital anarchist diy ecofeminist community that strives to live ethically, protect the right way to live, and make tools for ‘the people’: indigenous, migrants, minorities, outcasts, hippies..: us
 
 [wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
 
@@ -14,3 +14,5 @@ I wonder: what other people out there, in some remoate area in the world, may be
 
 #### notes
 this part of the readme serves as a simple version of GitHub's projects 'n issues. Start with those features off.
+
+need a title
