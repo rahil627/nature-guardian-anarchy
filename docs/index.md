@@ -2,6 +2,6 @@ The Way of Nature's Guardians provides a digital common space for people that ei
 
 Come home. Join the [discord](https://discord.gg/2vv643p).
 
-Or how about checking out or contributing to the [wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)?
+Or how about checking out 'n even contributing to the [wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)?
 
-...At the moment, this site is just a place-holder. Soon it will become a knowledge-base. And hopefully after that, I'll add some tools for the people to use!
+...At the moment, this site there's nothing else on this site. Soon it will become a knowledge-base. And hopefully after that, I'll add some tools for the people to use!
