@@ -8,12 +8,11 @@ The Way of Nature's Guardians provides a digital common space for people that ei
 
 Now, obviously, most of those people don't use Discord, or speak English, or think anywhere near the way I am currently thinking as i write this.., so this is likely a space for people who have lived in both cultures/worlds/mind-sets: indgenous / in nature and with technology ("developed" and "undeveloped"). Very likely, it's people that either migrated from the technological world to nature or from nature to the technological world. It's for the unique grassroots communities 'n their communes in nature ("intentional communities") around the world. But... it sure would be nice to somehow stop *a billion* people from using corporate-owned social media (especially Baidu, LINE, Kakao Talk) and use decentralized messaging, or even just Discord! :/
 
-It's up to us to make a digital world that fits our own worlds, in the languages we live. I personally have a set of tool ideas to aid nomands, anarchists, homeless peopels, buskers, street-vendors, garderners, farmers, people living in nature: us. We need to survive. We need power. We need tools, technologies, 'n techniques.
+It's up to us to make a digital world that fits our own worlds, in the languages we live. I personally have a set of tool ideas to aid nomads, anarchists, homeless peopels, buskers, street-vendors, garderners, farmers, people living in nature: us. We need to survive. We need power. We need tools, technologies, 'n techniques.
 
 I wonder: what other people out there, in some remoate area in the world, may be up to...
 - - -
 
 #### notes
-this part of the readme serves as a simple version of GitHub's projects 'n issues. Start with those features off.
-
+todo:  
 need a title
