@@ -1,8 +1,11 @@
 # the way of nature's guardians
 is a digital anarchist diy ecofeminist community that strives to live ethically, protect the right way to live, and make tools for ‘the people’: indigenous, migrants, minorities, outcasts, hippies..: us
 
-[discord](https://discord.gg/2vv643p)   
-[wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
+some traits/words: gardening, waterfalls, hot springs, forests, indegenous, extremely inclusive, empathetic, careful, caring, helpful, hard-working, diy, *real*, *truth*
+
+come hang out at the [discord](https://discord.gg/2vv643p)
+ 
+wander and/or contribute to the [wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
 
 The Way of Nature's Guardians provides a digital common space for people that either live in nature or are striving to go back to nature. It's also a place for the people that strive to protect those people. It's also a place for people that make tools (digital or not) to aid these people.
 
