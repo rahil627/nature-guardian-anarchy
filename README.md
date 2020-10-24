@@ -1,5 +1,5 @@
 # the way of nature's guardians: a willowolf
-is a digital anarchist diy ecofeminist community that strives to live ethically, protect the right way to live, and make tools for ‘the people’: indigenous, migrants, minorities, outcasts, hippies..: us
+is a digital anarchist diy ecofeminist community that strives to live ethically, protect the right way to live, and make tools for ourselves: indigenous, migrants, minorities, outcasts, hippies: *real* people
 
 some traits/words: gardening, waterfalls, hot springs, forests, indegenous, extremely inclusive, empathetic, careful, caring, helpful, hard-working, diy, *real*, *truth*
 
