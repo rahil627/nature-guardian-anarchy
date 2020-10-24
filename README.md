@@ -6,7 +6,8 @@ some traits/words: gardening, waterfalls, hot springs, forests, indegenous, extr
 *currently, the site is generated using the contents from [my repo for willowolf](https://github.com/Rahil627/willowolf). In the future, i'll move the contents back here, and generate the site using this repo.*
 
 # temp web-site home page
-The Way of Nature's Guardians provides a digital common space for people that either live in nature, are striving to go back to nature, strive to protect those people, make tools to aid these people... // Wherever you were born, whatever your culture, whatever your history, you know the right way to live: with nature. It's for people that live a slow life, living and learning at the pace of plants, growing with them, dying with them, only to be reborn again and again, changing one's self entirely several times, as we get closer to nature.
+# Nature’s Guardians Anarchy, a willowolf
+Nature’s Guardians Anarchy provides a digital common space for people that either live in nature, are striving to go back to nature, strive to protect those people, make tools to aid these people... // Wherever you were born, whatever your culture, whatever your history, you know the right way to live: with nature. It's for people that live a slow life, living and learning at the pace of plants, growing with them, dying with them, only to be reborn again and again, changing one's self entirely several times, as we get closer to nature.
 
 ...At the moment, this site there's nothing else on this site. Soon it will become a knowledge-base. And hopefully after that, 
 I'll add some tools for the people to use!
@@ -15,7 +16,8 @@ I'll add some tools for the people to use!
  
 *see* the public [wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki). contribute to it
 
-*help build* [the web-site](https://willowolf.com/nga) at [the willowolf GitHub repo](https://github.com/Rahil627/willowolf)
+*help build* this web-site at [the willowolf github repo](https://github.com/Rahil627/willowolf)
+
 
 # another writing
 The Way of Nature's Guardians provides a digital common space for people that either live in nature or are striving to go back to nature. It's also a place for the people that strive to protect those people. It's also a place for people that make tools (digital or not) to aid these people.
