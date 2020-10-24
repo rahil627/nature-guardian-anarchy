@@ -3,9 +3,7 @@ is a digital anarchist diy ecofeminist community that strives to live ethically,
 
 some traits/words: gardening, waterfalls, hot springs, forests, indegenous, extremely inclusive, empathetic, careful, caring, helpful, hard-working, diy, *real*, *truth*
 
-*currently, the site is generated using the contents from [my repo for willowolf](https://github.com/Rahil627/willowolf). In the future, i'll move the contents back here, and generate the site using this repo.*
-
-# temp web-site home page
+# copy of web-site home page
 # nature’s guardians anarchy: a willowolf
 provides a digital common space for people that either live in nature, are striving to go back to nature, strive to protect those people, make tools to aid these people... // Wherever you were born, whatever your culture, whatever your history, you know the right way to live: with nature. It's for people that live a slow life, living and learning at the pace of plants, growing with them, dying with them, only to be reborn again and again, changing one's self entirely several times, as we get closer to nature.
 
@@ -13,7 +11,7 @@ provides a digital common space for people that either live in nature, are striv
  
 help *build* the public [wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
 
-help *make* this web-site at [the willowolf repo](https://github.com/Rahil627/willowolf)
+help *make* this [web-site](https://github.com/Rahil627/nature-guardian-anarchy)
 
 ...At the moment, there's nothing else here
 
