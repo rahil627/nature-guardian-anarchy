@@ -5,7 +5,7 @@ title: a home in the forest
 ![](beautiful.jpg?raw=true)
 
 # nature’s guardians: *the natural way* of life: a back-to-nature / permaculture digital communal space
-is a digital communal space for people that either: live in nature, strive to go back to nature, strive to protect those people, make tools to aid these people, love to help those people but can't because of circumstances, 'n so on
+is a digital communal space for passionate people that either: follows nature's way of life, strives to go back to nature, strives to protect all beings that follow nature, make tools or ideas or new ways to aid all beings to stick to the path, or would love to follow nature's way but can't because of circumstances, 'n so on; constantly struggling to find ways to survive against civilization: indigenous, migrants, minorities, outcasts, hippies: *real* people
 
 Wherever you were born, whatever your culture, whatever your history, you know the right way to live: with nature, *slowly* and *carefully*. It's for people that live a slow life, living and learning at the pace of plants, growing with them, dying with them, only to be reborn again and again, changing one's self entirely several times, as we get ever closer to nature.
 
