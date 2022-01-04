@@ -1,3 +1,4 @@
+*(copied from the web-site's home-page)*
 # the way of nature's guardians: a willowolf
 is a digital anarchist diy ecofeminist community that strives to live ethically, protect the right way to live, and make tools for ourselves: indigenous, migrants, minorities, outcasts, hippies: *real* people
 
