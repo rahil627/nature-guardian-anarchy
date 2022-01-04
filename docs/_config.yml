@@ -1,3 +1,6 @@
+title: nature's guardians
+#description: nature's way of life
+
 remote_theme: jekyll/minima
 minima:
   skin: solarized # can try solarized-dark, but it's fugly
