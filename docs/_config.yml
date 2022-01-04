@@ -3,4 +3,4 @@ title: nature's guardians: *the natural way* of life
 
 remote_theme: jekyll/minima
 minima:
-  skin: solarized # can try solarized-dark, but it's fugly
+  skin: solarized-dark # can try solarized-dark, but it's fugly
