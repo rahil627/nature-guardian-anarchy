@@ -28,8 +28,10 @@ It's up to us to make a digital world that fits our own worlds, in the languages
 I wonder: what other people out there, in some remoate area in the world, may be up to...
 
 #### notes
+i think there will be a divide between the intellectual part of this: theories ,etc., and the practical side of this: permaculture / self-reliance. It might be better to divide the two since you don't have to have eco-feminist values to live in nature, and you don't have to have back-to-nature values to be eco-feminist (or do you?...).
+
 todo:  
-need a title
+need a less generic title
 
 cut:  
 ...At the moment, there's nothing else on this web-site. Soon it will become a knowledge-base. And hopefully after that, 
