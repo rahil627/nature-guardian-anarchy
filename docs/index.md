@@ -13,7 +13,7 @@ Wherever you were born, whatever your culture, whatever your history, you know t
  
 help *build* the public [wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
 
-help *make* the web-site at [the willowolf repo](https://github.com/Rahil627/willowolf)
+help *make* [this web-site](https://github.com/Rahil627/nature-guardian-anarchy)
 
 help take care of each other
 
