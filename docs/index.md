@@ -1,11 +1,19 @@
-# the way of nature’s guardians: a willowolf
-is a digital common space, knowledge-base, and tool-kit for people that either live in nature, are striving to go back to nature, strive to protect those people, make tools to aid these people... // Wherever you were born, whatever your culture, whatever your history, you know the right way to live: with nature. It's for people that live a slow life, living and learning at the pace of plants, growing with them, dying with them, only to be reborn again and again, changing one's self entirely several times, as we get closer to nature.
+---
+permalink: /natural/
+---
 
-*come home*, to [the discord](https://discord.gg/2vv643p)
+![](beautiful.jpg?raw=true)
+
+# nature’s guardians: the natural way of life: a back-to-nature / permaculture anarchy: a willowolf
+is a digital communal space for people that either live in nature, are striving to go back to nature, strive to protect those people, make tools to aid these people, would love to help those people but can't becaue of circumstances, etc. etc.
+
+Wherever you were born, whatever your culture, whatever your history, you know the right way to live: with nature, *slowly* and *carefully*. It's for people that live a slow life, living and learning at the pace of plants, growing with them, dying with them, only to be reborn again and again, changing one's self entirely several times, as we get ever closer to nature.
+
+*come home*, to the [discord](https://discord.gg/2vv643p)
  
-help *build* [the wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
+help *build* the public [wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
 
-help *make* [this web-site](https://github.com/Rahil627/nature-guardian-anarchy)
+help *make* the web-site at [the willowolf repo](https://github.com/Rahil627/willowolf)
 
 help take care of each other
 
