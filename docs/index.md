@@ -1,7 +1,3 @@
----
-permalink: /natural/
----
-
 ![](beautiful.jpg?raw=true)
 
 # nature’s guardians: the natural way of life: a back-to-nature / permaculture anarchy: a willowolf
