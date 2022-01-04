@@ -1,5 +1,4 @@
 ---
-
 ---
 
 ![](beautiful.jpg?raw=true)
