@@ -18,3 +18,6 @@ help *make* [this web-site](https://github.com/Rahil627/nature-guardian-anarchy)
 help take care of each other
 
 so that they in turn can take care of the world around them
+
+
+Q&A style sites (stack exchange) would be nice... https://sustainability.stackexchange.com/tags/permaculture/info
