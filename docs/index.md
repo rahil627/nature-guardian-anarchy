@@ -20,4 +20,6 @@ help take care of each other
 so that they in turn can take care of the world around them
 
 
-Q&A style sites (stack exchange) would be nice... https://sustainability.stackexchange.com/tags/permaculture/info
+todo:  
+q&a site?:  
+there seems to be [a q&a stack exchange site on sustainability](https://sustainability.stackexchange.com), but it's pretty terrible. It doesn't have any females, and certainly no non-English speakers. It seems to be focused on recycling, and not much further than that! The gardening stack exchange site probably has more diversity...
