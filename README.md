@@ -17,6 +17,18 @@ help take care of each other
 so that they in turn can take care of the world around them
 
 
+# notes
+
+## a q&a site?
+there seems to be [a q&a stack exchange site on sustainability](https://sustainability.stackexchange.com), but it's pretty terrible. It doesn't have any females, and certainly no non-English speakers. It's composed of rich idiots still focused on recycling and solar panels, not going any further. The gardening stack exchange site probably has more diversity... as should the community-building site... but the problem is that they try to seperate what cannot be seperated: life.
+
+For that reason, most questions are asked on Facebook groups, or places that feel a little more social. There are many Facebook groups for farmers and organic farmers. They're all more visual people, posting photos, and not much else. They are focused on the world, not the screen... It would be diffiuclt to get those people...
+
+Language is a another problem with Q&A sites, or any written-medium sites (forums, chats, etc.)... I don't see why though, as Google should e able to translate posts...
+
+Hrm...
+
+
 # a previous writing
 is a digital common space, knowledge-base, and tool-kit for people that either live in nature, are striving to go back to nature, strive to protect those people, make tools to aid these people... // Wherever you were born, whatever your culture, whatever your history, you know the right way to live: with nature. It's for people that live a slow life, living and learning at the pace of plants, growing with them, dying with them, only to be reborn again and again, changing one's self entirely several times, as we get closer to nature.
 
