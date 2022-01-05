@@ -28,9 +28,11 @@ Language is a another problem with Q&A sites, or any written-medium sites (forum
 
 Hrm...
 
-a q&a site for ecofeminism, however, would be rad! :o That, i think could build a central body of knowledge...
+**a q&a site for ecofeminism, however, would be rad! :o** That, i think could build a central body of knowledge...
   - proposing to the main stackexchange site basically requires you to have a community of people that are already into it... it's quite a commitment really... you need people to moderate and edit...
-  - you could host it privately, but it likely takes quite a bit of effort to do this.. see the "enterprise" version of stack exchange
+  - stackexchange doesn't seem to give their software for private use, only some shit enterprise version made catered to dev teams
+  - https://meta.stackexchange.com/questions/2267/are-there-any-clones-alternatives-for-running-a-stack-exchange-style-qa-site
+    - lists good alternatives
 
 
 # a previous writing
