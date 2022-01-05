@@ -1,24 +1,14 @@
 *(copied from the web-site's home-page, likely out-dated)*
 ![](docs/beautiful.jpg?raw=true)
-# the way of nature's guardians: a willowolf
+
+
+# a previous writing
+is a digital common space, knowledge-base, and tool-kit for people that either live in nature, are striving to go back to nature, strive to protect those people, make tools to aid these people... // Wherever you were born, whatever your culture, whatever your history, you know the right way to live: with nature. It's for people that live a slow life, living and learning at the pace of plants, growing with them, dying with them, only to be reborn again and again, changing one's self entirely several times, as we get closer to nature.
+
+# a previous writing
 is a digital anarchist diy ecofeminist community that strives to live ethically, protect the right way to live, and make tools for ourselves: indigenous, migrants, minorities, outcasts, hippies: *real* people
 
 some traits/words: gardening, waterfalls, hot springs, forests, indegenous, extremely inclusive, empathetic, careful, caring, helpful, hard-working, diy, *real*, *truth*
-
-# copy of web-site home page
-# the way of nature’s guardians: a willowolf
-is a digital common space, knowledge-base, and tool-kit for people that either live in nature, are striving to go back to nature, strive to protect those people, make tools to aid these people... // Wherever you were born, whatever your culture, whatever your history, you know the right way to live: with nature. It's for people that live a slow life, living and learning at the pace of plants, growing with them, dying with them, only to be reborn again and again, changing one's self entirely several times, as we get closer to nature.
-
-*come home*, to [the discord](https://discord.gg/2vv643p)
- 
-help *build* [the wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
-
-help *make* [this web-site](https://github.com/Rahil627/nature-guardian-anarchy)
-
-help take care of each other
-
-so that they in turn can take care of the world around them
-
 
 # another writing
 The Way of Nature's Guardians provides a digital common space for people that either live in nature or are striving to go back to nature. It's also a place for the people that strive to protect those people. It's also a place for people that make tools (digital or not) to aid these people.
