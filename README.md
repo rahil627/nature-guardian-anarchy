@@ -33,6 +33,8 @@ Hrm...
   - stackexchange doesn't seem to give their software for private use, only some shit enterprise version made catered to dev teams
   - https://meta.stackexchange.com/questions/2267/are-there-any-clones-alternatives-for-running-a-stack-exchange-style-qa-site
     - lists good alternatives
+    - https://codidact.com seems cool, as it already has sites for cooking and outdoors
+      - ...but again, it just feels a bit inhumane... but maybe it's supposed to? Facebook groups now have search functions, which sorta make them useful...
 
 
 # a previous writing
