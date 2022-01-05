@@ -1,8 +1,8 @@
 *(copied from the web-site's home-page, likely out-dated)*
 ![](beautiful.jpg?raw=true)
 
-# nature’s guardians: *the natural way* of life: a back-to-nature / permaculture digital communal space
-is a project and digital communal space for passionate people that either: follows nature's way of life, strives to go back to nature, strives to protect all beings that follow nature, make tools or ideas or new ways to aid all beings to stick to the path, or would love to follow nature's way but can't because of circumstances, 'n so on; constantly struggling to find ways to survive against civilization: indigenous, migrants, minorities, outcasts, hippies: *real* people
+# nature’s guardians: *the natural way* of life
+is a back-to-nature 'n permaculture project and digital communal space for passionate people that either: follows nature's way of life, strives to go back to nature, strives to protect all beings that follow nature, make tools or ideas or new ways to aid all beings to stick to the path, or would love to follow nature's way but can't because of circumstances, 'n so on; constantly struggling to find ways to survive against civilization: indigenous, migrants, minorities, outcasts, hippies: *real* people
 
 Wherever you were born, whatever your culture, whatever your history, you know the right way to live: with nature, *slowly* and *carefully*. It's for people that live a slow life, living and learning at the pace of plants, growing with them, dying with them, only to be reborn again and again, changing one's self entirely several times, as we get ever closer to nature.
 
@@ -30,11 +30,11 @@ Hrm...
 
 **a q&a site for ecofeminism, however, would be rad! :o** That, i think could build a central body of knowledge...
   - proposing to the main stackexchange site basically requires you to have a community of people that are already into it... it's quite a commitment really... you need people to moderate and edit...
-  - stackexchange doesn't seem to give their software for private use, only some shit enterprise version made catered to dev teams
+  - stackexchange doesn't seem to give their software for private use, only some shit enterprise version tailored to dev teams
   - https://meta.stackexchange.com/questions/2267/are-there-any-clones-alternatives-for-running-a-stack-exchange-style-qa-site
     - lists good alternatives
     - https://codidact.com seems cool, as it already has sites for cooking and outdoors
-      - ...but again, it just feels a bit inhumane... but maybe it's supposed to? Facebook groups now have search functions, which sorta make them useful...
+      - ...but again, it just feels a bit inhumane... but maybe it's supposed to? Facebook groups now have search functions, which sorta make them useful... i don't know... there seems to be a contradiction, an alienation: people should be communicating with their local friends 'n family, not some online group of people... but **for highly-specialized interests** such as making fighting games and experimental-gameplay games, it makes sense, as there aren't many people in the entire world heading down these paths**... It's just that for this topic, it's too broad.... or is it? I've personally only run into so few in Taiwan.... and Taiwan basically has Dao in the culture!..
 
 
 # a previous writing
