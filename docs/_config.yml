@@ -1,6 +1,7 @@
 title: nature's guardians: *the natural way* of life
 #description: a digital community that strives to follow *the natural* way of life
-author: a willowolf by <a href="https://rathewolf.com>rathewolf</a>
+author:
+  name: a willowolf by <a href="https://rathewolf.com>rathewolf</a>
 
 remote_theme: jekyll/minima
 minima:
