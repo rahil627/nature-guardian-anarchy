@@ -18,3 +18,5 @@ help *make* [this web-site](https://github.com/Rahil627/nature-guardian-anarchy)
 help take care of each other
 
 so that they in turn can take care of the world around them
+
+document.getElementById("footer-col-wrapper").style.display = "none";
