@@ -2,7 +2,7 @@ remote_theme: jekyll/minima
 
 # theme sepecific stuff
 minima:
-  skin: solarized-dark # can try solarized-dark, but it's fugly
+  skin: solarized
 
 title: nature's guardians: *the natural way* of life
 description: a digital community that strives to follow *the natural* way of life
