@@ -1,5 +1,5 @@
 ---
-title: a home in the forest
+#title: a home in the forest
 ---
 
 ![](beautiful.jpg?raw=true)
