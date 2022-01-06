@@ -4,7 +4,7 @@ remote_theme: jekyll/minima
 minima:
   skin: solarized
 
-title: nature's guardians #: the natural way of life
+title: nature's guardians #: the natural way of life # if it's too long, throws an error!
 description: a digital community that strives to follow the natural way of life
 #author:
   #name: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>
