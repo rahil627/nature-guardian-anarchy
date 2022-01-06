@@ -7,5 +7,5 @@ remote_theme: jekyll/minima
 minima:
   skin: solarized-dark # can try solarized-dark, but it's fugly
   
-  author:
-    name: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>
+#  author:
+#    name: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>
