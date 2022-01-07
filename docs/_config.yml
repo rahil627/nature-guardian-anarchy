@@ -13,6 +13,6 @@ title: nature's guardians #: the natural way of life # if it's too long, throws 
 
 footer:
   left: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
-  center: 'this is footer.center'
+  center: this is footer.center
   right: 'this is footer.right'
 
