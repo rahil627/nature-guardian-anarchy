@@ -1,5 +1,5 @@
-remote_theme: jekyll/minima # must force remote theme download because GitHub Pagss doesn't update their version
-#remote-theme: rahil627/minima-custom # i won't ever rememeber to update my forked version :(
+#remote_theme: jekyll/minima # must force remote theme download because GitHub Pagss doesn't update their version
+remote-theme: rahil627/minima # i won't ever rememeber to update my forked version :(
 
 # theme sepecific stuff
 minima:
