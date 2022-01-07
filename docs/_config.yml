@@ -10,3 +10,9 @@ title: nature's guardians #: the natural way of life # if it's too long, throws 
 author:
   name: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>
 #  email: blah@blah.blah
+
+footer: <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
+  left: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
+  #center: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
+  #right: ''
+
