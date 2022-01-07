@@ -6,7 +6,7 @@ remote_theme: jekyll/minima # must force remote theme download because GitHub Pa
 minima:
   skin: solarized-dark # todo: now this is broken? :(
 
-title: "nature's guardians" #: the natural way of life' #requires literal string due to the ':'
+title: "nature's guardians: the natural way of life" #requires literal string due to the ':'
 #description: a digital communal space that strives to follow the natural way of life
 #author:
 #  name: rahil627
