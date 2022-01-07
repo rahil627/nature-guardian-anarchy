@@ -1,5 +1,5 @@
 ---
-title: forest home
+#title: forest home # adds to seo and nav-bae
 layout: default
 ---
 # *the natural way* of life
