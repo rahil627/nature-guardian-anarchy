@@ -1,8 +1,8 @@
 ---
-#title: forest home # adds to seo and nav-bae
+#title: forest home # adds to seo and nav-bar #comes from h1
 layout: default
 ---
-# *the natural way* of life
+# *the natural way of life*
 is a back-to-nature 'n permaculture project and digital communal space for passionate people that either: follows nature's way of life, strives to go back to nature, strives to protect all beings that follow nature, make tools or ideas or new ways to aid all beings to stick to the path, or would love to follow nature's way but can't because of circumstances, 'n so on; constantly struggling to find ways to survive against civilization: indigenous, migrants, minorities, outcasts, hippies: *real* people
 
 ![](beautiful.jpg?raw=true)
