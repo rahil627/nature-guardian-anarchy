@@ -1,5 +1,5 @@
 ---
-title: a forest home
+title: forest
 layout: default
 ---
 # *the natural way of life*
