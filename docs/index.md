@@ -1,6 +1,6 @@
 ---
-title: forest
-layout: default
+#title: forest #not sure why this doesn't generated a h1
+#layout: default
 ---
 welcome to
 # {{ site.title }}
