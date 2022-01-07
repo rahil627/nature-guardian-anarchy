@@ -14,7 +14,7 @@
         </p>
 
       {% if site.footer %}
-       <p>{{ site.footer | escape }}</p>
+       <p>{{ site.footer.left | escape }}</p>
       {% endif %}
           
       {%- if site.author %}
