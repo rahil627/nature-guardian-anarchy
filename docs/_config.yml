@@ -11,7 +11,7 @@ author:
   name: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>
 #  email: blah@blah.blah
 
-footer: <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
+footer:
   left: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
   #center: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
   #right: ''
