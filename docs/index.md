@@ -1,5 +1,5 @@
 ---
-#title: forest home # adds to seo and nav-bar #comes from h1
+title: the natural way of life #a home in the forest # adds to seo and nav-bar #comes from h1
 layout: default
 ---
 # *the natural way of life*
