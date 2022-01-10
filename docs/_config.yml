@@ -12,9 +12,9 @@ minima:
 
   skin: solarized-dark # a bit funky, but okay for now
   
-  author:
-    name: rahil627 aka rathewolf # does this go to seo?
-    email: '' # might cause an error without it
+#  author:
+#    name: rahil627 aka rathewolf # does this go to seo?
+#    email: '' # might cause an error without it
 
 # custom theme vars
 title-short: "nature's guardians"
