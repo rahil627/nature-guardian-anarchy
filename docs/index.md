@@ -2,7 +2,7 @@
 #title: forest #not sure why this doesn't generated a h1
 #layout: default
 ---
-welcome to
+welcome to...
 # {{ site.title-short }}
 
 ---
