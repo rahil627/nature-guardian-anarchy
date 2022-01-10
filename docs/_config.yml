@@ -1,18 +1,20 @@
-remote_theme: jekyll/minima # must force remote theme download because GitHub Pagss doesn't update their version
-#remote-theme: rahil627/minima # i won't ever rememeber to update my forked version :(
-# something is wrong with using a forked version... :(
+#remote_theme: jekyll/minima # must force remote theme download because GitHub Pagss doesn't update their version
+remote_theme: rahil627/minima-custom-jekyll-theme # i won't ever rememeber to update my forked version :(
+
+# standard vars
+title: "nature's guardians: the natural way of life" #requires literal string due to the ':'
+#description: a digital communal space that strives to follow the natural way of life
 
 # theme sepecific stuff
 minima:
   skin: solarized-dark # todo: now this is broken? :(
 
-title: "nature's guardians: the natural way of life" #requires literal string due to the ':'
-title-short: "nature's guardians"
-#description: a digital communal space that strives to follow the natural way of life
 #author:
 #  name: rahil627
 #  email: blah@blah.blah
 
+# custom theme vars
+title-short: "nature's guardians"
 footer:
   left: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
   center: this is footer.center
