@@ -11,7 +11,7 @@ a back-to-nature 'n permaculture project and digital communal space for passiona
 
 ---
 
-![](beautiful.jpg?raw=true)
+![](assets/images/beautiful.jpg?raw=true)
 
 ---
 
