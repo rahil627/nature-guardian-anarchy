@@ -7,11 +7,14 @@ title: "nature's guardians: the natural way of life" #requires literal string du
 
 # theme sepecific stuff
 minima:
-  skin: solarized-dark # todo: now this is broken? :(
+  plugins:
+   - jekyll-seo-tag
 
-#author:
-#  name: rahil627
-#  email: blah@blah.blah
+  skin: solarized-dark # a bit funky, but okay for now
+  
+  author:
+    name: rahil627 aka rathewolf # does this go to seo?
+    email: '' # might cause an error without it
 
 # custom theme vars
 title-short: "nature's guardians"
