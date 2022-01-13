@@ -1,5 +1,5 @@
 #remote_theme: jekyll/minima # must force remote theme download because GitHub Pagss doesn't update their version
-remote_theme: rahil627/minima-custom-jekyll-theme # i won't ever rememeber to update my forked version :(
+remote_theme: minima-jekyll-theme-customized # i won't ever rememeber to update my forked version :(
 
 # standard vars
 title: "nature's guardians: the natural way of life" #requires literal string due to the ':'
