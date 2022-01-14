@@ -15,9 +15,11 @@ a back-to-nature 'n permaculture project and digital communal space for passiona
 
 ---
 
-*come home*, to the [discord](https://discord.gg/2vv643p)
+*come home* to the [discord](https://discord.gg/2vv643p)
+
+*come discuss* at [the forums](https://github.com/rahil627/nature-guardian-anarchy/discussions)
  
-help *build* the public [wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
+help *build* [the wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
 
 help *make* [this web-site](https://github.com/Rahil627/nature-guardian-anarchy)
 
