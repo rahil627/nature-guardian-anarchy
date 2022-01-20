@@ -22,8 +22,3 @@ text-align: center
 footer:
   left: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
 
-# other vars
-# convert newlines properly
-kramdown:
-  input: GFM
-  hard_wrap: true
