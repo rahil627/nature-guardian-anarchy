@@ -19,9 +19,9 @@ a back-to-nature 'n permaculture project and digital communal space for passiona
 
 come *discuss* at [the forums](https://github.com/rahil627/nature-guardian-anarchy/discussions)
  
-help *build* [the wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
+help *build* [the wiki](https://github.com/rahil627/nature-guardian-anarchy/wiki)
 
-help *make* [this web-site](https://github.com/Rahil627/nature-guardian-anarchy)
+help *make* [this web-site](https://github.com/rahil627/nature-guardian-anarchy)
 
 help take care of each other
 
