@@ -8,9 +8,9 @@ Wherever you were born, whatever your culture, whatever your history, you know t
 
 *come home*, to the [discord](https://discord.gg/2vv643p)
  
-help *build* the public [wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
+help *build* the public [wiki](https://github.com/rahil627/nature-guardian-anarchy/wiki)
 
-help *make* [this web-site](https://github.com/Rahil627/nature-guardian-anarchy)
+help *make* [this web-site](https://github.com/rahil627/nature-guardian-anarchy)
 
 help take care of each other
 
